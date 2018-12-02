@@ -16,9 +16,9 @@ public class DB {
     private Statement statement;
     // put your database mysql configuration parameters 
     
-    private static String DB_name="alertdb";
-    private static String DB_user="root";
-    private static String DB_password="";
+    //private static String DB_name="";
+    //private static String DB_user="";
+    //private static String DB_password="";
 	
 	
 	// constructor 
